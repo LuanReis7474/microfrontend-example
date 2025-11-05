@@ -1,7 +1,7 @@
 {
   "name": "fragment-2",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
