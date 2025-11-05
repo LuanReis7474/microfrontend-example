@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <h1>
-           Vue
+           Vue (fiz uma alteração aqui)
         </h1>
         <button v-on:click="getUser()">Get user</button>
         <div v-if="user">
